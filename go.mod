@@ -1,4 +1,4 @@
-module github.com/fadymondy/inline-cms
+module github.com/togo-framework/inline-cms
 
 go 1.26.4
 
